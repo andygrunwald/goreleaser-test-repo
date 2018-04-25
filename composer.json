@@ -1,0 +1,7 @@
+{
+    "name": "minimal/test",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^3.1"
+    }
+}
